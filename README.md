@@ -1,0 +1,2 @@
+# ImageProcess
+Sampling and Quantization
